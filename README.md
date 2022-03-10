@@ -1,0 +1,2 @@
+# ReceiptextractionandCategorisation
+Dockerized app
